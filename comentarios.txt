@@ -1,0 +1,15 @@
+
+metodos para cadenas de caracteres:
+
+nombre.upper(): pone la candena de caracteres en mayuscula
+nombre.capitalize(): pone la primera letra del nombre en mayuscula
+nombre.lower(): pone la cadena de caracteres en minuscula
+nombre[0]: selecciona la primera letra del nombre
+len(""): indica la cantidad de caracteres que tiene una cadena de texto
+nombre.strip(): quita los espacios iniciales y finales de una cadena de una cadena de caracteres
+nombre.replace("o", "a"): remplaza todas las "o" que haya en un nombre por una "a"
+nombre[0:3]:toma la cadena de caracteres desde el primero hasta el cuarto caracter de la candena de texto
+nombre[3:7]: toma la cadena de caracteres desde el cuarto hasta el septimo
+nombre[::-1]:toma los caracteres desde el principio hasta el final en inversa en pasos de uno
+
+
