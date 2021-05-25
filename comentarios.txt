@@ -11,5 +11,55 @@ nombre.replace("o", "a"): remplaza todas las "o" que haya en un nombre por una "
 nombre[0:3]:toma la cadena de caracteres desde el primero hasta el cuarto caracter de la candena de texto
 nombre[3:7]: toma la cadena de caracteres desde el cuarto hasta el septimo
 nombre[::-1]:toma los caracteres desde el principio hasta el final en inversa en pasos de uno
+-----------------------------------------------------------------------------------------------------------------------------
+
+Vectores (listas)
+
+para crear listas o vectores especiales que solo se puede hacer en python el cual nos permite
+crearlos con diferentes valores es decir no tienen que ser del mismo tipo como en otros lenguajes
+
+objetos =["hola", 3, 4.5, True, "Como vamos"]
+para acceder a los objetos de la lista o vector lo hacemos asi
+
+objetos[3]: y nos devuelve el valor de (True)
+
+para agregar elementos al final del vector lo hacemos con:
+
+objetos.append('que'):Agregara (que) al final de la lista o vector
+
+para eliminar objetos lo hacemos con
+
+objetos.pop(2): elimina el (4.5) de la lista de objetos o vector
+
+para tenerlo en un ciclo lo hacemos con 
+
+for elemento in objetos:
+    print(elemto)
+imprime todos los elementos del vector o lista.
+
+para seleccionar un objeto de el lo hacemos con 
+
+objetos= [0:2]: devuelve los objetos del 1 al 3
+----------------------------------------------------------------------------------------------------------------------------------
+
+Tuplas
+
+son objetos o vectores estaticos 
+mi_tupla = (1, 2, 3, 4, 5): la diferencia esta en que se hace con parentesis y no con corchetes
+
+no se puede agregar o quitar objetos 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Diccionarios U Objetos 
+
+Son variables con varias caracteristicas y nos permiten acceder a una o todas sus caractertiscas 
+
+
+ 
+
+ 
+
+
 
 
